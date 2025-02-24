@@ -87,4 +87,4 @@ async def history(ctx):
 
 
 
-bot.run(" asd ")
+bot.run(" this is after ssh ")
