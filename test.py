@@ -87,4 +87,4 @@ async def history(ctx):
 
 
 
-bot.run(" ")
+bot.run(" asd ")
